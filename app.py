@@ -28,8 +28,7 @@ def myapp():
         "extract only the text from image",
         "Image:omit any comment"
     ])
-    print(response)
-    
+       
 
     return response.text
 
